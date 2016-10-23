@@ -10,4 +10,6 @@ GIT
 			Most operations are local. Central server not needed (but often used).
 			E.g. GIT
 			
+			
+	Why use GIT...
 
