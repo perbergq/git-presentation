@@ -1,12 +1,30 @@
 Misc Git Info
 
+
 git push origin 
 	- origin refers to the GitHub copy of our repository
 	- master refers to our default and only branch in the repository
 
+	
 git reset xx.txt to undo add action
+
 
 After a commit:
 [master d2687e4] 'commit message'
 master - current branch 
 d2687e4 - unique identifier for the commit 
+
+
+Your branch is ahead of 'origin/master' by one commit, in reference to GitHub. 
+
+
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+  
+git amend
+
+git log
