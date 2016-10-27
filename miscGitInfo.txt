@@ -1,0 +1,6 @@
+Misc Git Info
+
+git push origin 
+	- origin refers to the GitHub copy of our repository
+	- master refers to our default and only branch in the repository
+	
