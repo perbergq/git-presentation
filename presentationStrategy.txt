@@ -1,0 +1,22 @@
+Strategy for the Git Presentation
+
+1 Presentationsdel klar 15 november (v46)
+	Bakgrund git
+	Hur det fungerar git
+	Vilka problem löser git (järmfört med SVN)
+	Var/hur lagras metadata 
+
+2 Granskning med GIT
+	Granskningsverktyg
+		Gerrit
+
+3 Hur skulle GIT fungera i vårt arbetsflöde
+	Brancher
+	Tag
+	Commit
+	Rebase
+	Reintegrate
+	Granskning
+4 Likheter och skillnader mot nuvarande versionshanteringssystem
+	Clear Case – GIT
+	SVN - GIT
