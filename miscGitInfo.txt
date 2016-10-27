@@ -3,4 +3,7 @@ Misc Git Info
 git push origin 
 	- origin refers to the GitHub copy of our repository
 	- master refers to our default and only branch in the repository
-	
+
+after editing, git will use the added text as the commit message by default.	
+
+git reset xx.txt to undo add action
