@@ -1,5 +1,8 @@
 Misc Git Info
+https://github.com/perbergq/git-presentation.git
 
+Own demo findings
+---------------------
 
 git push origin 
 	- origin refers to the GitHub copy of our repository
@@ -24,7 +27,57 @@ Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git checkout -- <file>..." to discard changes in working directory)
 
-  
+ 
 git amend
 
 git log
+
+---------------------
+
+Frågor:
+testa att byta origin
+http://stackoverflow.com/questions/2432764/change-the-uri-url-for-a-remote-git-repository
+
+GITbucket istället för GERRIT
+ 
+Förstå och lära sig om branchning!!
+ 
+Areas to be investigated
+---------------------
+
+Basic Git commands 
+
+Basic GIT workflow (Add, commit, pull push) - DONE
+Tracked files 
+Editing files
+Recursive add
+Backing out changes
+Renaming and moving files 
+Deleting files
+History
+Git alias
+Ignoring unwanted files and folders
+Cleanup and back to origin
+
+Comparisions
+
+Comparing working directory and staging area
+Comparing working directory and git repository(last commit)
+Limited comparisions to one file (or path)
+Comparing between commits
+Comparing between local and remote master branches
+Comparision section cleanup and push back to GitHub
+
+
+Branching and merging
+
+
+Rebasing
+
+
+Stashing
+
+
+Tagging
+
+----------------------------------------------

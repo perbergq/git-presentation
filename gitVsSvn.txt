@@ -1,0 +1,20 @@
+General info
+---------------------
+
+Source Control Options
+
+Centralized
+	Centralized server that is the ultimate source of truth. Network connection needed to central server. 
+	E.g. Clear Case and SVN
+	
+Distributed
+	Most operations are local. Central server not needed (but often used).
+	E.g. GIT
+		
+		
+
+Why use GIT...
+
+http://stackoverflow.com/questions/871/why-is-git-better-than-subversion
+
+---------------------
