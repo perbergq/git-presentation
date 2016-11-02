@@ -47,17 +47,70 @@ Areas to be investigated
 
 Basic Git commands 
 
-Basic GIT workflow (Add, commit, pull push) - DONE
+Basic GIT workflow (Add, commit, pull push)
+
 Tracked files 
+git ls-files
+Untracked before git add command
+
 Editing files
+The same file in two states, to be committed and not staged for commit.
+Modifiy
+Add 
+Then modify again
+
 Recursive add
+git add .
+
 Backing out changes
+git reset HEAD filename (from staged to working area)
+git checkout (discard changes in working directory)
+
 Renaming and moving files 
+git mv -> renamed and ready to be committed.
+mv -> deleted git file + untracked file
+then writing 
+git add -A (updates files that has been renamed moved or deleted)
+
+git mv level2new.txt 2.txt
+and 
+git mv 2.txt level2new.txt
+clean working copy when doing this
+
+git add u ->update the index is sometimes needed (read more)
+
 Deleting files
+Removing file and then getting it back by the following.
+git rm file.txt
+git reset HEAD file.txt
+git checkout -- file.txt
+
+rm file.txt (As oppose to the git rm)
+git add -A
+git commit
+
 History
+git help log
+git log --abbrev-commit
+git log --oneline --graph --decorate (starter-web)
+git log --since="3 days ago"
+git log -- hipster.txt
+git log --follow -- level1/level2/level2.txt
+-> log going through the renames
+
 Git alias
+git config --global alias.hist "log --all --graph --decorate --oneline"
+
 Ignoring unwanted files and folders
+mate .gitignore (make ignorefile)
+enter e.g. just the file name: 
+.DS_Store
+*.log
+log/
+
 Cleanup and back to origin
+git pull origin master
+
 
 Comparisions
 
