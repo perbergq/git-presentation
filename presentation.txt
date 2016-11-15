@@ -13,3 +13,16 @@ GIT
 			
 	Why use GIT...
 
+
+	
+	
+	
+Frågor:
+testa att byta origin
+http://stackoverflow.com/questions/2432764/change-the-uri-url-for-a-remote-git-repository
+
+GITbucket istället för GERRIT
+ 
+Förstå och lära sig om branchning!!
+ 
+Areas to be investigated
