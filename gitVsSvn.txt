@@ -17,4 +17,8 @@ Why use GIT...
 
 http://stackoverflow.com/questions/871/why-is-git-better-than-subversion
 
+http://boxysystems.com/index.php/5-fundamental-differences-between-git-svn/
+
+http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
+
 ---------------------
